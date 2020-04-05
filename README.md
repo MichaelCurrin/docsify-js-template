@@ -3,9 +3,10 @@
 
 Usually you would start with project code and build a docs site around that, but this template repo servers a difference purpose. To create a quickstart site of your own using this template.
 
+
 ## Use this template
 
-Create a new project based on this one by clicking the button below. You'll get a fork in your own repo.
+Create a _new_ project based on this one by clicking the button below. You'll get a fork in your own repo.
 
 [![Use this template](https://img.shields.io/badge/Use_this_template-green.svg)](https://github.com/MichaelCurrin/docsify-js-template/generate)
 
@@ -17,9 +18,9 @@ You can also just star this project, then reference it as a simple isolated docs
 
 ## Add Docsify to an existing project
 
-- [Docsify JS Tutorial](https://michaelcurrin.github.io/docsify-js-tutorial/#/)
+See [Docsify JS Tutorial](https://michaelcurrin.github.io/docsify-js-tutorial/#/) docs site.
 
 That covers:
 
-- Intro to Docsify
-- How to add Docsify to your _existing_ project
+- Intro to Docsify.
+- How to add Docsify to your _existing_ project.

@@ -8,7 +8,7 @@
 <!-- TODO: Update to match your project's benefits/features. -->
 
 - :hourglass_flowing_sand: An elegant template / base / quickstart for a docs site
-- :open_file_folder: - Content comes from markdown files in your _docs_ directory - no templating syntax to learn
+- :open_file_folder: Content is read markdown files in your _docs_ directory
 - :pushpin: No compiling needed and no templating syntax to learn
 - :hammer: Easy to configure navbar and optional menus - Docsify can even create the navbar for you.
 - :nut_and_bolt: Built on [Docsify-JS](https://docsify.js.org/)

@@ -11,7 +11,7 @@
 
 ## Create a Docsify site
 
-Follow instructions in this project's Github repo:
+Follow instructions in the Github repo's README.md file:
 
 <a href="https://github.com/michaelcurrin/docsify-js-template/">
     <img src="https://img.shields.io/github/forks/MichaelCurrin/docsify-js-template?style=social">

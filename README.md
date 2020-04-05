@@ -35,7 +35,7 @@ This will copy the contents of the docs directory from Github to the current fol
     ```sh
     cd my-project/docs
     ```
-3. Download each file in the template [docs](/docs) directory to your project. The `-O` flag will save the file locally, keeping the original filename.
+3. Download each file in the template [docs](/docs) directory to your project using this two-line command (copy the whole thing). The `-O` flag will save the file locally, keeping the original filename.
     ```sh
     curl https://raw.githubusercontent.com/MichaelCurrin/docsify-js-template/master\
     /docs/\{_coverpage.md,_sidebar.md,.nojekyll,index.html,README.md\} -O

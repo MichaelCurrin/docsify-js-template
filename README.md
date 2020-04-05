@@ -24,3 +24,13 @@ That covers:
 
 - Intro to Docsify.
 - How to add Docsify to your _existing_ project.
+
+
+## License
+
+Licensed under [MIT license](https://github.com/MichaelCurrin/docsify-js-tutorial/blob/master/LICENSE)
+
+- You can modify and reuse this project.
+- A copy of the license and copyright notice must be included with the software. [source](https://choosealicense.com/licenses/#mit).
+- Please link back to this repo somewhere in your project.
+-

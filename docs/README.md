@@ -8,7 +8,12 @@
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/) <!-- TODO: Update repo links.-->
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MichaelCurrin/docsify-js-template/blob/master/LICENSE) <!-- TODO: Update repo link and change license type if not MIT. -->
 
+<!-- TODO Delete this line -->
+
+_See the [https://github.com/michaelcurrin/docsify-js-tutorial/](https://github.com/michaelcurrin/docsify-js-tutorial/) repo on Github to use this template setup your own site like this._
+
 <!-- TODO: Replace the body below with your headings and content. -->
+
 
 ## Sample
 

@@ -3,7 +3,12 @@
 
 Usually you would start with project code and build a docs site around that, but this template repo servers a difference purpose. To create a quickstart site of your own using this template.
 
-- [Project docs site](https://github.com/MichaelCurrin/docsify-js-template)
+**Links:**
+
+- [Docsify JS Template](https://github.com/MichaelCurrin/docsify-js-template) docs site
+- [Docsify JS Tutorial](https://michaelcurrin.github.io/docsify-js-tutorial/#/) docs site
+    - That covers intro to Docsify, including installation, running and configuration.
+    - If you look at the repo, that has has more content and configuration than this relatively plain template site.
 
 ## Setup Docsify
 
@@ -63,12 +68,6 @@ npm install -g docsify-cli
 ```sh
 docsify serve docs
 ```
-
-## Tutorial
-
-See my [Docsify JS Tutorial](https://michaelcurrin.github.io/docsify-js-tutorial/#/) docs site. That covers intro to Docsify, including installation, running and configuration.
-
-It also has has more content and configuration than this relatively plain template site.
 
 
 ## License

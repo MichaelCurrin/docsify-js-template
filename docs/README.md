@@ -9,15 +9,17 @@
 
 <!-- TODO: Delete below -->
 
-Follow instructions on Github to use this template as your own repo.
+## Create a Docsify site
 
-<a href="https://github.com/michaelcurrin/docsify-js-tutorial/">
+Follow instructions in this project's Github repo:
+
+<a href="https://github.com/michaelcurrin/docsify-js-template/">
     <img src="https://img.shields.io/github/forks/MichaelCurrin/docsify-js-template?style=social">
 </a>
 
 <!-- TODO Delete above -->
 
-<!-- TODO: Replace the body below with your headings and content. -->
+<!-- TODO: Replace the body below with your headings and content. Or remove these sections and rather use customize the sidebar to point to each file. -->
 
 
 ## Sample

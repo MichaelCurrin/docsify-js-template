@@ -14,5 +14,5 @@
 - Content comes from markdown files a your _docs_ directory
 - Responsive and fast-loading single page-application
 
-[GitHub](https://github.com/MichaelCurirn/docsify-js-template/) <!-- TODO: Use your repo's path.-->
+[GitHub](https://github.com/MichaelCurrin/docsify-js-template/) <!-- TODO: Use your repo's path.-->
 [Getting Started](#docsify-js-template) <!-- TODO: Use ID of homepage heading i.e. based on H1 of README.md - make sure this is DIFFERENT to the cover's heading -->

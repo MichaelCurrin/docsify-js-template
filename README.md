@@ -3,11 +3,13 @@
 
 Usually you would start with project code and build a docs site around that, but this template repo servers a difference purpose. To create a quickstart site of your own using this template.
 
-## Setup Docsify content
+- [Project docs site](https://github.com/MichaelCurrin/docsify-js-template)
 
-Use one of the approaches below:
+## Setup Docsify
 
-### Use this template
+Use one of the approaches below to setup Docsify in your own project.
+
+### a. Use this template
 
 Create a _new_ forked project based on this template  by clicking the button below. You'll get a fork in your own repo.
 
@@ -17,7 +19,7 @@ You can then customize by following the _TODO_ items through the code.
 
 You could start adding code outside of the _docs_ directory, however this project is intended as a standalone docs site which can be configured for experimentation and used as reference.
 
-## Add Docsify to an existing project's docs directory
+### b. Add Docsify to an existing project's docs directory
 
 This will copy the contents of the docs directory from Github to the current folder - ideal if there is an existing project and you want to _Docsify_ it.
 
@@ -32,22 +34,25 @@ This will copy the contents of the docs directory from Github to the current fol
         /docs/\{_coverpage.md,_sidebar.md,.nojekyll,index.html,README.md\} -O
     ```
 
-## Remote use
+
+## Setup and run
+
+### Remote use
 
 Whatever approach you use to setup a _docs_ directory, you can use your own project or a forked template a site on Github Pages or Netlify.
 
 There won't be any code to the site other than _docs_ site, but this is still fine as a standalone online demo of _Docsify_ that you can tweak.
 
 
-## Serve locally
+### Serve locally
 
 Follow [Docsify JS Tutorial](https://michaelcurrin.github.io/docsify-js-tutorial/#/?id=serve-a-docsify-site-locally) for more info, but here is a summary of how to starting serving any _Docsify_ site.
 
-### No CLI
+#### No CLI
 
 With the simplest approach, no dependencies are needed as _Docsify_ is loaded in the browser. To serve your forked project locally, just start a web server in the _docs_ directory. Such as using Python or NodeJS or Apache, or VS Code's live server.
 
-### With CLI
+#### With CLI
 
 If you want to use _Docsify CLI:
 

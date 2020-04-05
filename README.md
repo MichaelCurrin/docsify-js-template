@@ -5,7 +5,7 @@ Usually you would start with project code and build a docs site around that, but
 
 ## Use this template
 
-Use it to a create a new project based on this one by clicking the button below. You'll get a fork in your own repo.
+Create a new project based on this one by clicking the button below. You'll get a fork in your own repo.
 
 [![Use this template](https://img.shields.io/badge/Use_this_template-green.svg)](https://github.com/MichaelCurrin/docsify-js-template/generate)
 

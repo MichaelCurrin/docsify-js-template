@@ -19,9 +19,23 @@ You could start adding code outside of the _docs_ directory, however this projec
 
 ### Local use
 
-With the simplest approach, no dependencies are needed as _Docsify_ is loaded in the browser.
+Follow [Docsify JS Tutorial](https://michaelcurrin.github.io/docsify-js-tutorial/#/?id=serve-a-docsify-site-locally) for more info, but here is a summary:
 
-To serve your forked project locally, just start a web server in the _docs_ directory. Follow instructions in my [Docsify JS Tutorial](https://michaelcurrin.github.io/docsify-js-tutorial/#/?id=serve-a-docsify-site-locally).
+#### No CLI
+
+With the simplest approach, no dependencies are needed as _Docsify_ is loaded in the browser. To serve your forked project locally, just start a web server in the _docs_ directory. Such as using Python or NodeJS or Apache, or VS Code's live server.
+
+#### With CLI
+
+If you want to use _Docsify CLI:
+
+```sh
+npm install -g docsify-cli
+```
+
+```sh
+docsify serve docs
+```
 
 ### Remote use
 

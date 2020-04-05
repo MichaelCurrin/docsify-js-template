@@ -6,15 +6,27 @@ Usually you would start with project code and build a docs site around that, but
 
 ## Use this template
 
-Create a _new_ project based on this one by clicking the button below. You'll get a fork in your own repo.
+### Create
+
+Create a _new_ forked project based on this template  by clicking the button below. You'll get a fork in your own repo.
 
 [![Use this template](https://img.shields.io/badge/Use_this_template-green.svg)](https://github.com/MichaelCurrin/docsify-js-template/generate)
 
 You can then customize by following the _TODO_ items through the code.
 
-Then use it as a standalone site (no code outside of _docs_ directory), serving for free using Github Pages or Netlify.
+You could start adding code outside of the _docs_ directory, however this project is intended as a standalone docs site which can be configured for experimentation and used as reference.
 
-You can also just star this project, then reference it as a simple isolated docs site, without forking it.
+
+### Local use
+
+With the simplest approach, no dependencies are needed as _Docsify_ is loaded in the browser.
+
+To serve your forked project locally, just start a web server in the _docs_ directory. Follow instructions in my [Docsify JS Tutorial](https://michaelcurrin.github.io/docsify-js-tutorial/#/?id=serve-a-docsify-site-locally).
+
+### Remote use
+
+Use your fork as a standalone site, serving for free using Github Pages or Netlify.
+
 
 ## Add Docsify to an existing project
 
@@ -22,7 +34,8 @@ See [Docsify JS Tutorial](https://michaelcurrin.github.io/docsify-js-tutorial/#/
 
 That covers:
 
-- Intro to Docsify.
+- Intro to Docsify
+    - Including installation, running and configuration.
 - How to add Docsify to your _existing_ project.
 
 

@@ -12,7 +12,10 @@ Usually you would start with project code and build a docs site around that, but
     - That covers intro to Docsify, including installation, running and configuration.
     - If you look at the repo, that has has more content and configuration than this relatively plain template site.
 
-## Setup Docsify
+
+## How to use Docsify in your projects 
+
+<!-- If you are forking this template, this section can be deleted -->
 
 Use one of the approaches below to setup Docsify in your own project.
 
@@ -64,18 +67,18 @@ With the simplest approach, no dependencies are needed as _Docsify_ is loaded in
 If you want to use _Docsify CLI:
 
 ```sh
-npm install -g docsify-cli
+$ npm install -g docsify-cli
 ```
 
 ```sh
-docsify serve docs
+$ docsify serve docs
 ```
 
 
 ## License
 
-Licensed under [MIT license](https://github.com/MichaelCurrin/docsify-js-tutorial/blob/master/LICENSE)
+Released under [MIT license](https://github.com/MichaelCurrin/docsify-js-tutorial/blob/master/LICENSE)
 
 - You can modify and reuse this project.
 - A copy of the license and copyright notice must be included with the software. [source](https://choosealicense.com/licenses/#mit).
-- Please link back to this repo somewhere in your project.
+- Please link back to the original repo somewhere in your project.

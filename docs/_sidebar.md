@@ -1,5 +1,5 @@
 <!-- TODO: Complete with your own sidebar structure and enable sidebar in index.html - or delete this file. -->
-- [Home](/#my-app-homepage)
+- [Home](/#docsify-js-template-homepage)
 - [Fizz]()
 - [Buzz]()
 - Foo

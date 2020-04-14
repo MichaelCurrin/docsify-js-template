@@ -11,13 +11,14 @@
 
 ## Create a Docsify site
 
-Follow instructions in the Github repo's README.md file:
+Follow instructions in this Github repo's README.md file to setup your own docs site like this one:
 
-<a href="https://github.com/michaelcurrin/docsify-js-template/">
+<a href="https://github.com/MichaelCurrin/docsify-js-template/">
     <img src="https://img.shields.io/github/forks/MichaelCurrin/docsify-js-template?style=social">
 </a>
 
-<!-- TODO Delete above -->
+<!-- TODO: Delete above -->
+
 
 <!-- TODO: Replace the body below with your headings and content. Or remove these sections and rather use customize the sidebar to point to each file. -->
 

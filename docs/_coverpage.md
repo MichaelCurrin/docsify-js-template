@@ -8,9 +8,9 @@
 <!-- TODO: Update to match your project's benefits/features. Git emojis work great here. -->
 
 - :hourglass_flowing_sand: Quickly setup an elegant, responsive, fast site
-- :open_file_folder: Content is read from markdown files in your _docs_ directory
+- :open_file_folder: Content is read from markdown files in your docs
 - :pushpin: No compiling needed and no templating syntax to learn
-- :hammer: Easy to configure sidebar, even auto generated from headings
+- :hammer: Easy to configure sidebar, even auto-generated from headings
 - :nut_and_bolt: Built on [Docsify-JS](https://docsify.js.org/)
 - :pushpin: No local dependencies - library loads in the browser
 - :pizza: Serve locally and on GitHub Pages / Netlify

@@ -12,7 +12,13 @@
 
 ## Create a Docsify site
 
-Follow instructions in this Github repo's README.md file to setup your own docs site like this one:
+Click the button below to create your own copy of this repo.
+
+[![Use this template](https://img.shields.io/badge/Use_this_template-green.svg?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
+
+Then follow instructions in the original Github repo's README.md file to setup your own docs site like this one.
+
+Github link:
 
 <a href="https://github.com/MichaelCurrin/docsify-js-template/">
     <img src="https://img.shields.io/github/forks/MichaelCurrin/docsify-js-template?style=social">

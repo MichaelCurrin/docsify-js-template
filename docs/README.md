@@ -5,7 +5,8 @@
 <!-- Choose one of these Docsify badges. The first is just text, the second looks up the latest npm version and displays it. -->
 [![Made with Docsify](https://img.shields.io/badge/Made%20with-Docsify-blue.svg)](https://docsify.js.org/) <!-- [![Made with latest Docsify](https://img.shields.io/npm/v/docsify/latest?label=docsify)](https://docsify.js.org/) -->
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/) <!-- TODO: Update repo links. -->
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MichaelCurrin/docsify-js-template/blob/master/LICENSE) <!-- TODO: Update repo link and change license type in the badge text if not MIT. -->
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MichaelCurrin/docsify-js-template/blob/master/README#license) <!-- TODO: Update repo link and change license type in the badge text if not MIT. -->
+
 
 <!-- TODO: Delete below -->
 

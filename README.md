@@ -1,7 +1,9 @@
 # Docsify JS Template
 > A minimal quickstart template for a docs site
 
-Usually you would start with project code and build a docs site around that, but this template repo servers a difference purpose. To create a quickstart site of your own using this template.
+[![Use this template](https://img.shields.io/badge/Use_this_template-green.svg?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
+
+Usually you would start with project code and build a docs site around that, but this template repo serves a difference purpose. To create a quickstart site of your own using the template.
 
 **Links:**
 

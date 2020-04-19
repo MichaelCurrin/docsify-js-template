@@ -3,15 +3,17 @@
 
 [![Use this template](https://img.shields.io/badge/Use_this_template-green.svg?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
 
-Usually you would start with project code and build a docs site around that, but this template repo serves a difference purpose. To create a quickstart site of your own using the template.
+Usually you would start with project code and build a docs site around that, but this template repo serves a difference purpose. To create a quickstart site of your own using the template. It also serves as a **base** for copying files to an existing report's docs directory.
+
 
 **Links:**
 
 - [Docsify JS Template](https://github.com/MichaelCurrin/docsify-js-template) docs site
     - A live demo of a docs site.
-    - The repo linked there is a template you can use.
+
+
 - [Docsify JS Tutorial](https://michaelcurrin.github.io/docsify-js-tutorial/#/) docs site
-    - That covers intro to Docsify, including installation, running and configuration.
+    - That covers intro to DocsifyJS, including installation, running and configuration.
     - If you look at the repo, that has has more content and configuration than this relatively plain template site.
 
 
@@ -79,7 +81,7 @@ $ docsify serve docs
 
 ## License
 
-Released under [MIT license](https://github.com/MichaelCurrin/docsify-js-tutorial/blob/master/LICENSE)
+Released under [MIT license](/LICENSE).
 
 - You can modify and reuse this project.
 - A copy of the license and copyright notice must be included with the software. [source](https://choosealicense.com/licenses/#mit).

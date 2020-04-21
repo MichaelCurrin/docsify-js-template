@@ -26,7 +26,7 @@ Github link:
 
 Embedding a gist:
 
-[example](http://gist.github.com/atenni/5604522/raw/README.md ':include')
+[example](https://gist.github.com/atenni/5604522/raw/README.md ':include')
 
 
 <!-- TODO: Delete above -->

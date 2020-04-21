@@ -24,6 +24,11 @@ Github link:
     <img src="https://img.shields.io/github/forks/MichaelCurrin/docsify-js-template?style=social">
 </a>
 
+Embedding a gist:
+
+[example](http://gist.github.com/atenni/5604522/raw/README.md ':include')
+
+
 <!-- TODO: Delete above -->
 
 

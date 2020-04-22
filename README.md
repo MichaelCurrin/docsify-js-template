@@ -8,14 +8,13 @@ Usually you would start with project code and build a docs site around that, but
 
 **Links:**
 
-- [Docsify JS Template](https://github.com/MichaelCurrin/docsify-js-template) docs site
-    - A live demo of a docs site.
+Name                  | Description
+---                   | ---
+[Docsify JS Template] | A live demo of a docs site.
+[Docsify JS Tutorial] | That covers intro to DocsifyJS, including installation, running and configuration. If you look at the repo, that has has more content and configuration than this relatively plain template site.
 
-
-- [Docsify JS Tutorial](https://michaelcurrin.github.io/docsify-js-tutorial/#/) docs site
-    - That covers intro to DocsifyJS, including installation, running and configuration.
-    - If you look at the repo, that has has more content and configuration than this relatively plain template site.
-
+[Docsify JS Template]: https://github.com/MichaelCurrin/docsify-js-template
+[Docsify JS Tutorial]: https://michaelcurrin.github.io/docsify-js-tutorial/#/
 
 ## How to use Docsify in your projects 
 

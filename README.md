@@ -4,7 +4,6 @@
 [![Use this template](https://img.shields.io/badge/Use_this_template-green.svg?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
 [![Github Pages demo site](https://img.shields.io/badge/Github_Pages-Demo_site-blue.svg?style=for-the-badge)](https://michaelcurrin.github.io/docsify-js-template/#/)
 
-<script src="https://gist.github.com/MichaelCurrin/4c8060dcc9d8841f842eeebc7a1436d8.js"></script>
 
 ## Purpose
 
@@ -64,28 +63,14 @@ There won't be any code to the site other than _docs_ site, but this is still fi
 
 ### Serve locally
 
-Follow [Docsify JS Tutorial](https://michaelcurrin.github.io/docsify-js-tutorial/#/?id=serve-a-docsify-site-locally) for more info, but here is a summary of how to starting serving any _Docsify_ site.
+Follow this [gist](https://gist.github.com/MichaelCurrin/4c8060dcc9d8841f842eeebc7a1436d8).
 
-#### No CLI
-
-With the simplest approach, no dependencies are needed as _Docsify_ is loaded in the browser. To serve your forked project locally, just start a web server in the _docs_ directory. Such as using Python or NodeJS or Apache, or VS Code's live server.
-
-#### With CLI
-
-If you want to use _Docsify CLI:
-
-```sh
-$ npm install -g docsify-cli
-```
-
-```sh
-$ docsify serve docs
-```
+Follow [Docsify JS Tutorial](https://michaelcurrin.github.io/docsify-js-tutorial/#/?id=serve-a-docsify-site-locally) for more info.
 
 
 ## License
 
-Released under [MIT license](/LICENSE).
+Released under [MIT](/LICENSE).
 
 - You can modify and reuse this project.
 - A copy of the license and copyright notice must be included with the software. [source](https://choosealicense.com/licenses/#mit).

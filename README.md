@@ -4,6 +4,7 @@
 [![Use this template](https://img.shields.io/badge/Use_this_template-green.svg?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
 [![Github Pages demo site](https://img.shields.io/badge/Github_Pages-Demo_site-blue.svg?style=for-the-badge)](https://michaelcurrin.github.io/docsify-js-template/#/)
 
+<script src="https://gist.github.com/MichaelCurrin/4c8060dcc9d8841f842eeebc7a1436d8.js"></script>
 
 ## Purpose
 

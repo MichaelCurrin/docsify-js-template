@@ -9,9 +9,9 @@
 
 <!-- If you are forking this template, this section can be deleted -->
 
-- Create a new repo using the template and host it on Github Pages immediately. This is good for trying out Docsify or building a site project scratch.
-- You can also use this a **base** - download and add just the necessary files to your existing report's docs directory
-- View the live demo site.
+- Create a **new repo** using the template and host it on Github Pages immediately. This is good for trying out Docsify or building a site project scratch.
+- Or use this as a  **base** - follow instructions to download just the necessary files to your existing report's docs directory
+- View the **live** demo site.
 
 For more info on Docsify, see my [DocsifyJS Tutorial]. That covers intro to DocsifyJS, including installation, running and configuration. If you look at the repo, that has has more content and configuration than this relatively plain template site.
 

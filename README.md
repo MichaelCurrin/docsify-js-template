@@ -1,4 +1,4 @@
-# Docsify JS Template
+# DocsifyJS Template
 > A minimal quickstart template for a docs site
 
 [![Use this template](https://img.shields.io/badge/Use_this_template-green.svg?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
@@ -9,15 +9,13 @@
 
 <!-- If you are forking this template, this section can be deleted -->
 
-Usually you would start with project code and build a docs site around that, but this template repo serves a difference purpose.
+- Create a new repo using the template and host it on Github Pages immediately. This is good for trying out Docsify or building a site project scratch.
+- You can also use this a **base** - download and add just the necessary files to your existing report's docs directory
+- View the live demo site.
 
-- Create a quickstart site of your own using the template.
-- It also serves as a **base** for copying files to an existing report's docs directory
-- A live a demo site.
+For more info on Docsify, see my [DocsifyJS Tutorial]. That covers intro to DocsifyJS, including installation, running and configuration. If you look at the repo, that has has more content and configuration than this relatively plain template site.
 
-For more info on Docsify, see my [Docsify JS Tutorial]. That covers intro to DocsifyJS, including installation, running and configuration. If you look at the repo, that has has more content and configuration than this relatively plain template site.
-
-[Docsify JS Tutorial]: https://michaelcurrin.github.io/docsify-js-tutorial/#/
+[DocsifyJS Tutorial]: https://michaelcurrin.github.io/docsify-js-tutorial/#/
 
 
 ## How to use Docsify in your projects 
@@ -38,14 +36,14 @@ You could start adding code outside of the _docs_ directory, however this projec
 
 ### b. Add Docsify to an existing project's docs directory
 
-This will copy the contents of the docs directory from Github to the current folder - ideal if there is an existing project and you want to _Docsify_ it.
+This will copy the contents of the docs directory from Github to the current folder - ideal if there is an existing project and you want to _Docsify_ it. The `curl` command should be installed first, or use `wget`.
 
 1. Ensure you have `curl` command installed.
-2. Navigate to your project's docs folder.
+2. Navigate to your project's `docs` folder.
     ```sh
     cd my-project/docs
     ```
-3. Download each file in the template [docs](/docs) directory to your project using this two-line command (copy the whole thing). The `-O` flag will save the file locally, keeping the original filename.
+3. Download necessary files in the template [docs](/docs) directory to your project using this two-line command (copy the whole thing). The `-O` flag will save the file locally, keeping the original filename.
     ```sh
     curl https://raw.githubusercontent.com/MichaelCurrin/docsify-js-template/master\
     /docs/\{_coverpage.md,_sidebar.md,.nojekyll,index.html,README.md\} -O
@@ -65,7 +63,7 @@ There won't be any code to the site other than _docs_ site, but this is still fi
 
 Follow this [gist](https://gist.github.com/MichaelCurrin/4c8060dcc9d8841f842eeebc7a1436d8).
 
-Follow [Docsify JS Tutorial](https://michaelcurrin.github.io/docsify-js-tutorial/#/?id=serve-a-docsify-site-locally) for more info.
+Follow [DocsifyJS Tutorial](https://michaelcurrin.github.io/docsify-js-tutorial/#/?id=serve-a-docsify-site-locally) for more info.
 
 
 ## License

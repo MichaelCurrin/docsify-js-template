@@ -1,5 +1,5 @@
 <!-- TODO: Update with your values. -->
-# Docsify JS Template homepage
+# DocsifyJS Template homepage
 > A minimal quickstart template for a docs site
 
 <!-- Choose one of these Docsify badges. The first is just text, the second looks up the latest npm version and displays it. -->

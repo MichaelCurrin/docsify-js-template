@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
+# Replace utility script.
 
+# Follow instructions in README.md to use this script and then delete it when you're done.
 
 set -e
 cd docs
@@ -20,8 +22,14 @@ ORIGINAL_GETTING_STARTED='docsifyjs-template-homepage'
 ORIGINAL_SUBTITLE='A minimal quickstart template for a docs site'
 
 
-PATTERN="s/$ORIGINAL_TITLE/$MY_TITLE/g s/$ORIGINAL_REPO/$MY_REPO/g; s/$MY_GETTING_STARTED/$ORIGINAL_GETTING_STARTED/g s/$ORIGINAL_SUBTITLE/$MY_SUBTITLE/g"
-echo "PATTERN: $PATTERN"
+PATTERN="s/$ORIGINAL_TITLE/$MY_TITLE/g
+s/$ORIGINAL_REPO/$MY_REPO/g
+s/$MY_GETTING_STARTED/$ORIGINAL_GETTING_STARTED/g
+s/$ORIGINAL_SUBTITLE/$MY_SUBTITLE/g"
+
+echo 'PATTERN'
+echo "$PATTERN"
 
 sed -i "$PATTERN" *
+
 echo "Done!"

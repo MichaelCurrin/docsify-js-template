@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Replace utility script.
+# Replacement utility script.
 
 # Follow instructions in README.md to use this script and then delete it when you're done.
 

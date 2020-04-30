@@ -76,11 +76,14 @@ Now complete any remaining TODO items in the files.
 
 ### Use template readme
 
-If you clicked _Use this template_, then the last thing to do is use the template readme and delete this readme.
+If you clicked _Use this template_, followed the customize steps above, then the last thing to do is replace the project's README.md file with the template one.
 
 ```sh
 mv README.template.md README.md
 ```
+
+Then customize README.md as your own project.
+
 
 ## Setup and run
 
@@ -103,10 +106,7 @@ Go to the [DocsifyJS Tutorial](https://michaelcurrin.github.io/docsify-js-tutori
 Released under [MIT](/LICENSE).
 
 - You can modify and reuse this project.
-- A copy of the license and copyright notice must be included with the software. [source](https://choosealicense.com/licenses/#mit).
-    1. Copy the original license.
-        ```bash
-        cp LICENSE LICENSE-source
-        ```
-    2. Update your own `LICENSE` with your name.
-- Please link back to the original repo somewhere in your project.
+- Please link back to the original repo somewhere in your project if you use this in any way.
+- Including an original license copy
+    - If you add content from [docs](/docs) to your repo (or click _Use this template_) and then modify for your own needs so your copy is no longer a template, then you don't need to include a license.
+    - If you do fork this repo then use it as your own _template_, then this project's license and copyright notice must be included with the software. [source](https://choosealicense.com/licenses/#mit). Copy `LICENSE` to `LICENSE-source` and then update your copy of `LICENSE` with your own details.

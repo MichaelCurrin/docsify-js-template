@@ -2,7 +2,7 @@
 > A minimal quickstart template for a docs site
 
 [![Use this template](https://img.shields.io/badge/Use_this_template-green.svg?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
-[![Github Pages demo site](https://img.shields.io/badge/Github_Pages-Demo_site-blue.svg?style=for-the-badge)](https://michaelcurrin.github.io/docsify-js-template/#/)
+[![Github Pages demo site](https://img.shields.io/badge/GH_Pages-Demo_site-blue.svg?style=for-the-badge)](https://michaelcurrin.github.io/docsify-js-template/#/)
 
 
 ## Purpose
@@ -18,13 +18,13 @@ For more info on Docsify, see my [DocsifyJS Tutorial]. That covers intro to Docs
 [DocsifyJS Tutorial]: https://michaelcurrin.github.io/docsify-js-tutorial/#/
 
 
-## How to use Docsify in your projects 
+## How to use Docsify in your projects
 
-<!-- If you are forking this template, this section can be deleted -->
+<!-- If you are forking this template, this section can be deleted. -->
 
 Use one of the approaches below to setup Docsify in your own project.
 
-### a. Use this template
+### A. Use this template
 
 Create a _new_ forked project based on this template  by clicking the button below. You'll get a fork in your own repo.
 
@@ -34,19 +34,19 @@ You can then customize by following the _TODO_ items through the code.
 
 You could start adding code outside of the _docs_ directory, however this project is intended as a standalone docs site which can be configured for experimentation and used as reference.
 
-### b. Add Docsify to an existing project's docs directory
+### B. Add Docsify to an existing project's docs directory
 
-This will copy the contents of the docs directory from Github to the current folder - ideal if there is an existing project and you want to _Docsify_ it. The `curl` command should be installed first, or use `wget`.
+This will copy the contents of the docs directory from Github to the current folder - ideal if there is an existing project and you want to add to _Docsify_ it.
 
-1. Ensure you have `curl` command installed.
+1. Ensure you have `curl` command installed. Or use `wget`.
 2. Navigate to your project's `docs` folder.
     ```sh
     cd my-project/docs
     ```
-3. Download necessary files in the template [docs](/docs) directory to your project using this two-line command (copy the whole thing). The `-O` flag will save the file locally, keeping the original filename.
+3. Download necessary files in the template [docs](/docs) directory to your project using this two-line command. (The `-O` flag will save the files locally, keeping the original filenames.)
     ```sh
-    curl https://raw.githubusercontent.com/MichaelCurrin/docsify-js-template/master\
-    /docs/\{_coverpage.md,_sidebar.md,.nojekyll,index.html,README.md\} -O
+    REPO_DOCS='https://raw.githubusercontent.com/MichaelCurrin/docsify-js-template/master/docs/'
+    curl $REPO_DOCS\{_coverpage.md,_sidebar.md,.nojekyll,index.html,README.md\} -O
     ```
 
 
@@ -72,4 +72,9 @@ Released under [MIT](/LICENSE).
 
 - You can modify and reuse this project.
 - A copy of the license and copyright notice must be included with the software. [source](https://choosealicense.com/licenses/#mit).
+    1. Copy the original license.
+        ```bash
+        cp LICENSE LICENSE-source
+        ```
+    2. Update your own `LICENSE` with your name.
 - Please link back to the original repo somewhere in your project.

@@ -1,12 +1,12 @@
 # DocsifyJS Template
 > A minimal quickstart template for a docs site
 
-[![Use this template](https://img.shields.io/badge/Use_this_template-green.svg?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
+[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f.svg?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
+
 [![Github Pages demo site](https://img.shields.io/badge/GH_Pages-Demo_site-blue.svg?style=for-the-badge)](https://michaelcurrin.github.io/docsify-js-template/#/)
 
 
 ## Purpose
-
 
 - Create a **new repo** using the template and host it on Github Pages immediately. This is good for trying out Docsify or building a site project scratch.
 - Or use this as a  **base** - follow instructions to download just the necessary files to your existing report's docs directory
@@ -14,12 +14,10 @@
 
 For more info on Docsify, see my [DocsifyJS Tutorial]. That covers intro to DocsifyJS, including installation, running and configuration. If you look at the repo, that has has more content and configuration than this relatively plain template site.
 
-[DocsifyJS Tutorial]: https://michaelcurrin.github.io/docsify-js-tutorial/#/
+- [DocsifyJS Tutorial]: https://michaelcurrin.github.io/docsify-js-tutorial/#/
 
 
 ## How to use Docsify in your projects
-
-
 
 ### Copy files
 
@@ -50,7 +48,6 @@ This will copy the contents of the docs directory from Github to the current fol
 
 ### Customize
 
-
 You can use your IDE to do find and replace across files.
 
 Use the convenient [replace.sh](/replace.sh) script in this repo to replace the template's values with your own.
@@ -70,9 +67,7 @@ Use the convenient [replace.sh](/replace.sh) script in this repo to replace the 
    ```
 4. The script can be deleted after you use it.
 
-
 Now complete any remaining TODO items in the files.
-
 
 ### Use template readme
 

@@ -28,13 +28,23 @@
     <div id="app"></div>
 
     <script>
+        var repo = 'https://github.com/MichaelCurrin/docsify-js-tutorial'; // TODO: Update.
+        
         window.$docsify = {
             name: 'DocsifyJS Template', // TODO: Update.
-            repo: 'https://github.com/MichaelCurrin/docsify-js-template', // TODO: Update.
+            repo: repo, 
             auto2top: true,
             coverpage: true,
             loadSidebar: false,
             subMaxLevel: 2,
+            
+            plugins: [
+                EditOnGithubPlugin.create(
+                    repo + '/blob/master/docs/',
+                    null,
+                    '📝 Edit on GitHub',
+                )
+            ],
         }
 
     </script>

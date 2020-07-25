@@ -8,7 +8,7 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MichaelCurrin/docsify-js-template/blob/master/README#license)
 
 
-<!-- TODO: Delete below -->
+<!-- TODO: You can delete the About and Create a Docsify site sections if you create a new project from this template -->
 
 ## About
 
@@ -28,19 +28,16 @@ If you want learn about _Docsify_ and how to customize a docs like this, follow 
 
 Click the button below to create your own copy of this repo.
 
-[![Use this template](https://img.shields.io/badge/Use_this_template-green.svg?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
+[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f.svg?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
 
 Then follow instructions in the original Github repo's `README.md` file to setup your own docs site like this one.
 
-Github link:
+Github repo:
 
-[![Github stars](https://img.shields.io/github/forks/MichaelCurrin/docsify-js-template?style=social)](https://github.com/MichaelCurrin/docsify-js-template/)
-
-<!-- TODO: Delete above -->
+[![Github stars](https://img.shields.io/github/stars/MichaelCurrin/docsify-js-template?style=social)](https://github.com/MichaelCurrin/docsify-js-template/)
 
 
 <!-- TODO: Replace the body below with your headings and content. Or remove these sections and rather use customize the sidebar to point to each file. -->
-
 
 ## Sample
 

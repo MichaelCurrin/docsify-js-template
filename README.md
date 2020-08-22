@@ -14,7 +14,7 @@
 
 For more info on Docsify, see my [DocsifyJS Tutorial]. That covers intro to DocsifyJS, including installation, running and configuration. If you look at the repo, that has has more content and configuration than this relatively plain template site.
 
-- [DocsifyJS Tutorial]: https://michaelcurrin.github.io/docsify-js-tutorial/#/
+[DocsifyJS Tutorial]: https://michaelcurrin.github.io/docsify-js-tutorial/#/
 
 
 ## How to use Docsify in your projects

@@ -21,6 +21,9 @@
         }
 
     </style>
+   
+    <!-- Plugins that are needed before app configuration. -->
+    <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
 
 </head>
 
@@ -49,7 +52,12 @@
 
     </script>
 
+    <!-- Docsify core -->
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+    
+    <!-- Syntax highlighting -->
+    <!-- TODO Add prism-bash, prism-python, prism-javascript etc. as separate items to load highlighting for that language -->
+    <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
 
 </body>
 

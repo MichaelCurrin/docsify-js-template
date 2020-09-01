@@ -10,7 +10,8 @@
     <!-- TODO: Update. -->
     <title>DocsifyJS Template</title>
     <!-- TODO: Update. -->
-    <meta name="description" content="Documentation for the DocsifyJS Template project for making your own DocsifyJS docs site">
+    <meta name="description"
+        content="Documentation for the DocsifyJS Template project for making your own DocsifyJS docs site">
 
     <!-- TODO: Replace the theme name or leave as is. -->
     <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
@@ -21,7 +22,7 @@
         }
 
     </style>
-   
+
     <!-- Plugins that are needed before app configuration. -->
     <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
 
@@ -32,15 +33,15 @@
 
     <script>
         var repo = 'https://github.com/MichaelCurrin/docsify-js-tutorial'; // TODO: Update.
-        
+
         window.$docsify = {
             name: 'DocsifyJS Template', // TODO: Update.
-            repo: repo, 
+            repo: repo,
             auto2top: true,
             coverpage: true,
             loadSidebar: false,
             subMaxLevel: 2,
-            
+
             plugins: [
                 EditOnGithubPlugin.create(
                     repo + '/blob/master/docs/',
@@ -54,7 +55,7 @@
 
     <!-- Docsify core -->
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-    
+
     <!-- Syntax highlighting -->
     <!-- TODO Add prism-bash, prism-python, prism-javascript etc. as separate items to load highlighting for that language -->
     <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>

@@ -1,20 +1,20 @@
 #!/usr/bin/env bash
 # Replacement utility script.
-
+#
 # Follow instructions in README.md to use this script and then delete it when you're done.
 
 set -e
 cd docs
 
-## MODIFY THESE
+## MODIFY THESE WITH YOUR VALUES
+
 MY_TITLE='Foo Bar'
 MY_SUBTITLE='Foos the bar all the buzz'
 MY_USERNAME='My-Github-Username'
 MY_PROJECT_SLUG='foo-bar'
-# For SEO.
-MY_KEYWORDS='foo,bar,baz'
 
-## DO NOT MODIFY THESE
+## DO NOT MODIFY AFTER THE LINE ABOVE
+
 MY_REPO="$MY_USERNAME\/$MY_PROJECT_SLUG"
 MY_GETTING_STARTED="$MY_PROJECT_SLUG-template-homepage"
 

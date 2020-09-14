@@ -8,8 +8,8 @@
 
 <div align="center">
     
-[![GitHub Pages demo site](https://img.shields.io/badge/GH_Pages-Demo_site-blue.svg?style=for-the-badge)](https://michaelcurrin.github.io/docsify-js-template/#/)
-[![Use this template button](https://img.shields.io/badge/Use_this_template-2ea44f.svg?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
+[![GitHub Pages demo site](https://img.shields.io/badge/GH_Pages-Demo_site_👀-green?style=for-the-badge)](https://michaelcurrin.github.io/docsify-js-template/#/)
+[![Use this template button](https://img.shields.io/badge/Copy_repo-Use_this_template_🚀-2ea44f.svg?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
 
 </div>
 

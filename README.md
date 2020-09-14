@@ -1,10 +1,9 @@
 # Docsify.js Template
 > Quickstart for a markdown-based docs site
 
+[![Made with Docsify.js](https://img.shields.io/badge/Docsify.js-latest-blue)](https://docsify.js.org/)
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template)](https://github.com/MichaelCurrin/docsify-js-template/tags/?include_prereleases&sort=semver)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
-
-[![Made with Docsify.js](https://img.shields.io/badge/Docsify.js-blue)](https://docsify.js.org/)
 
 
 <div align="center">

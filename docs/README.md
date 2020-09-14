@@ -1,6 +1,6 @@
 <!-- TODO: Update with your values. -->
 # DocsifyJS Template homepage
-> A minimal quickstart template for a docs site
+> A quickstart template for a markdown-based docs site
 
  <!-- TODO: Update repo links and change license type if not MIT. -->
 [![Made with latest Docsify](https://img.shields.io/npm/v/docsify/latest?label=docsify)](https://docsify.js.org/)

@@ -8,17 +8,17 @@
 
 <div align="center">
     
-[![GitHub Pages demo site](https://img.shields.io/badge/GH_Pages-Demo_site_👀-green?style=for-the-badge)](https://michaelcurrin.github.io/docsify-js-template/#/)
-[![Use this template button](https://img.shields.io/badge/Copy_repo-Use_this_template_🚀-2ea44f.svg?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
+[![GitHub Pages demo site](https://img.shields.io/badge/GH_Pages-Demo_site-green?style=for-the-badge)](https://michaelcurrin.github.io/docsify-js-template/#/)
+[![Use this template button](https://img.shields.io/badge/Copy_repo-Use_this_template-2ea44f.svg?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
 
 </div>
 
 
 ## Features
 
-- Make a modern docs site for your awesome project's existing markdown files
-- Low code needed - uses one HTML file which has a JS section you can configure for your own project
-- Easily hosted on GH Pages for free as a static site with no built step needed
+- 📗 Make a modern docs site for your awesome project's existing markdown files
+- 🤩 Low code needed - uses one HTML file which has a JS section you can configure for your own project
+- 🚀 Easily hosted on GH Pages for free as a static site with no built step needed
 
 
 ## Purpose

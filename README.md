@@ -1,7 +1,7 @@
-# Docsify.js Template
-> Quickstart for a markdown-based docs site
+# DocsifyJS Template
+> A quickstart template for a markdown-based docs site
 
-[![Made with Docsify.js](https://img.shields.io/badge/Docsify.js-latest-blue)](https://docsify.js.org/)
+[![Made with DocsifyJS](https://img.shields.io/badge/DocsifyJS-latest-blue)](https://docsify.js.org/)
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template)](https://github.com/MichaelCurrin/docsify-js-template/tags/?include_prereleases&sort=semver)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
 
@@ -12,6 +12,13 @@
 [![Use this template button](https://img.shields.io/badge/Use_this_template-2ea44f.svg?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
 
 </div>
+
+
+## Features
+
+- Make a modern docs site for your awesome project's existing markdown files
+- Just add one short HTML file to handle the JS, plus an optional config file a menu
+- Easily hosted on GH Pages for free as a static site with no built step needed
 
 
 ## Purpose
@@ -36,7 +43,7 @@ Use one of the approaches below to setup Docsify in your own project.
 
 Create a _new_ forked project based on this template  by clicking the button below. You'll get a fork in your own repo.
 
-[![Use this template](https://img.shields.io/badge/Use_this_template-green.svg)](https://github.com/MichaelCurrin/docsify-js-template/generate)
+[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f)](https://github.com/MichaelCurrin/docsify-js-template/generate)
 
 You could start adding code outside of the _docs_ directory, however this project is intended as a standalone docs site which can be configured for experimentation and used as reference.
 

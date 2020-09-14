@@ -17,18 +17,18 @@
 ## Features
 
 - Make a modern docs site for your awesome project's existing markdown files
-- Just add one short HTML file to handle the JS, plus an optional config file a menu
+- Low code needed - just use a one short HTML file which handles the JS
 - Easily hosted on GH Pages for free as a static site with no built step needed
 
 
 ## Purpose
 > How to use this project
 
-- Create a **new repo** using the template and host it on Github Pages immediately. This is good for trying out Docsify or building a site project scratch.
-- Or use this as a  **base** - follow instructions to download just the necessary files to your existing report's docs directory
-- View the **live** demo site.
+- Create a **new repo** from the template and host it on GitHub Pages immediately. This is good for trying out Docsify or building a site project from scratch.
+- Use this project as a **base** - follow instructions to download just the necessary files to your _existing_ repo's `docs` directory
+- View the **live** demo site to see what you'll get.
 
-For more info on Docsify, see my [DocsifyJS Tutorial]. That covers intro to DocsifyJS, including installation, running and configuration. If you look at the repo, that has has more content and configuration than this relatively plain template site.
+For more info on Docsify, see my [DocsifyJS Tutorial][]. That covers intro to DocsifyJS, including installation, running and configuration. If you look at the repo, that has has more content and configuration than this relatively plain template site.
 
 [DocsifyJS Tutorial]: https://michaelcurrin.github.io/docsify-js-tutorial/#/
 
@@ -109,7 +109,7 @@ There won't be any code to the site other than _docs_ site, but this is still fi
 
 Follow this [gist](https://gist.github.com/MichaelCurrin/4c8060dcc9d8841f842eeebc7a1436d8) so you can view the docs site on a local webserver.
 
-Go to the [DocsifyJS Tutorial](https://michaelcurrin.github.io/docsify-js-tutorial/#/?id=serve-a-docsify-site-locally) for more info on what DocsifyJS is and how to use it.
+Go to my [DocsifyJS Tutorial - Serve locally](https://michaelcurrin.github.io/docsify-js-tutorial/#/?id=serve-a-docsify-site-locally) for more info on what DocsifyJS is and how to use it.
 
 
 ## License

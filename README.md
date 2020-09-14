@@ -1,12 +1,22 @@
-# DocsifyJS Template
-> A minimal quickstart template for a docs site
+# Docsify.js Template
+> Quickstart for a markdown-based docs site
 
-[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f.svg?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template)](https://github.com/MichaelCurrin/docsify-js-template/tags/?include_prereleases&sort=semver)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
 
-[![Github Pages demo site](https://img.shields.io/badge/GH_Pages-Demo_site-blue.svg?style=for-the-badge)](https://michaelcurrin.github.io/docsify-js-template/#/)
+[![Made with Docsify.js](https://img.shields.io/badge/Docsify.js-blue)](https://docsify.js.org/)
+
+
+<div align="center">
+    
+[![GitHub Pages demo site](https://img.shields.io/badge/GH_Pages-Demo_site-blue.svg?style=for-the-badge)](https://michaelcurrin.github.io/docsify-js-template/#/)
+[![Use this template button](https://img.shields.io/badge/Use_this_template-2ea44f.svg?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
+
+</div>
 
 
 ## Purpose
+> How to use this project
 
 - Create a **new repo** using the template and host it on Github Pages immediately. This is good for trying out Docsify or building a site project scratch.
 - Or use this as a  **base** - follow instructions to download just the necessary files to your existing report's docs directory

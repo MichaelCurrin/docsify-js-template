@@ -17,7 +17,7 @@
 ## Features
 
 - Make a modern docs site for your awesome project's existing markdown files
-- Low code needed - just use a one short HTML file which handles the JS
+- Low code needed - uses one HTML file which has a JS section you can configure for your own project
 - Easily hosted on GH Pages for free as a static site with no built step needed
 
 

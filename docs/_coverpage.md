@@ -16,4 +16,4 @@
 
 
 [GitHub](https://github.com/MichaelCurrin/docsify-js-template/) <!-- TODO: Use your repo's path.-->
-[Getting Started](#docsifyjs-template-homepage) <!-- TODO: Use ID of homepage heading i.e. based on H1 of README.md - make sure this is DIFFERENT to the cover's heading -->
+[Get Started](#docsifyjs-template-homepage) <!-- TODO: Use ID of homepage heading i.e. based on H1 of README.md - make sure this is DIFFERENT to the cover's heading -->

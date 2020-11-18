@@ -30,11 +30,11 @@ Click the button below to create your own copy of this repo.
 
 <div align="center">
  
-[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f.svg?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
+[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f.svg?style=for-the-badge&logo=github)](https://github.com/MichaelCurrin/docsify-js-template/generate)
 
 </div>
  
-Then follow instructions in the original Github repo's `README.md` file to setup your own docs site like this one.
+Then follow instructions in the original GitHub repo's `README.md` file to setup your own docs site like this one.
 
 GitHub repo:
 

@@ -16,11 +16,11 @@ This is a template for a simple but elegant docs site built on _Docsify_ which m
 
 This is a statically-built site - just commit and push and your Github Pages site will re-deploy.
 
-_Docsify.js_ runs as a single-page application - it relies on JavaScript to run but it gives a modern progress web-app experience for instant page loads. Note that this not SEO-friendly though - so use a static site if you need to be found on search engines.
+_Docsify.js_ runs as a _Single-Page Application_ on `index.html` - it relies on JavaScript to pull in content from markdown file, within the app shell. This gives a modern progressive web-app experience for instant page loads. But, this **not** SEO-friendly as crawlers don't like to or can't load JavaScript. So use a static site instead if you need to be found on search engines.
 
 If you want learn about _Docsify_ and how to customize a docs like this, follow this tutorial:
 
-- [michaelcurrin.github.io/docsify-js-tutorial/#/](https://michaelcurrin.github.io/docsify-js-tutorial/#/)
+[![Go to - DocsifyJS tutorial](https://img.shields.io/badge/Go_to-DocsifyJS_tutorial-green)](https://michaelcurrin.github.io/docsify-js-tutorial/#/)
 
 
 ## Create a Docsify site
@@ -28,27 +28,31 @@ If you want learn about _Docsify_ and how to customize a docs like this, follow 
 
 Click the button below to create your own copy of this repo.
 
+<div align="center">
+ 
 [![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f.svg?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
 
+</div>
+ 
 Then follow instructions in the original Github repo's `README.md` file to setup your own docs site like this one.
 
-Github repo:
+GitHub repo:
 
 [![Github stars](https://img.shields.io/github/stars/MichaelCurrin/docsify-js-template?style=social)](https://github.com/MichaelCurrin/docsify-js-template/)
 
 
 <!-- TODO: Replace the body below with your headings and content. Or remove these sections and rather use customize the sidebar to point to each file. -->
 
-## Sample
+## Preview
 
-_TODO: Complete with your content._
+_TODO: Complete with your content - such as a screenshot of your app or command-line usage. You can also rename Preview to Sample._
 
 
 ## Installation
 
-_TODO: Complete with your content._
+_TODO: Add your instructions._
 
 
 ## Usage
 
-_TODO: Complete with your content._
+_TODO: Add your instructions._

@@ -20,7 +20,7 @@ _Docsify.js_ runs as a _Single-Page Application_ on `index.html` - it relies on 
 
 If you want learn about _Docsify_ and how to customize a docs like this, follow this tutorial:
 
-[![Go to - DocsifyJS tutorial](https://img.shields.io/badge/Go_to-DocsifyJS_tutorial-green)](https://michaelcurrin.github.io/docsify-js-tutorial/#/)
+[![teach me - DocsifyJS tutorial](https://img.shields.io/badge/teach_me-DocsifyJS_tutorial-green)](https://michaelcurrin.github.io/docsify-js-tutorial/#/)
 
 
 ## Create a Docsify site
@@ -36,12 +36,8 @@ Click the button below to create your own copy of this repo.
  
 Then follow instructions in the original GitHub repo's `README.md` file to setup your own docs site like this one.
 
-GitHub repo:
+[![MichaelCurrin - docsify-js-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=docsify-js-template&color=blue&logo=github)](https://github.com/MichaelCurrin/docsify-js-template)
 
-[![Github stars](https://img.shields.io/github/stars/MichaelCurrin/docsify-js-template?style=social)](https://github.com/MichaelCurrin/docsify-js-template/)
-
-
-<!-- TODO: Replace the body below with your headings and content. Or remove these sections and rather use customize the sidebar to point to each file. -->
 
 ## Preview
 

@@ -5,7 +5,7 @@
  <!-- TODO: Update repo links and change license type if not MIT. -->
 [![Made with latest Docsify](https://img.shields.io/npm/v/docsify/latest?label=docsify)](https://docsify.js.org/)
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MichaelCurrin/docsify-js-template/blob/master/README#license)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MichaelCurrin/docsify-js-template/blob/master/README#license)
 
 
 <!-- TODO: You can delete the About and Create a Docsify site sections if you create a new project from this template -->
@@ -20,7 +20,7 @@ _Docsify.js_ runs as a _Single-Page Application_ on `index.html` - it relies on 
 
 If you want learn about _Docsify_ and how to customize a docs like this, follow this tutorial:
 
-[![teach me - DocsifyJS tutorial](https://img.shields.io/badge/teach_me-DocsifyJS_tutorial-green)](https://michaelcurrin.github.io/docsify-js-tutorial/#/)
+[![teach me - DocsifyJS tutorial](https://img.shields.io/badge/teach_me-DocsifyJS_tutorial-2ea44f)](https://michaelcurrin.github.io/docsify-js-tutorial/#/)
 
 
 ## Create a Docsify site

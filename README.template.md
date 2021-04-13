@@ -7,7 +7,7 @@
 ### Remote use
 
 1. Go to the repo on **GitHub**.
-2. Go to Settings section.
+2. Go to the _Settings_ section.
 3. Enable **GitHub Pages** for the _docs_ directory.
 4. Click _environment_ tab on your repo and for the site to build.
 5. On success, click _View deployment_ to see the public URL.

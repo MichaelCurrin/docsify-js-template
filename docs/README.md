@@ -47,9 +47,9 @@ _TODO: Complete with your content - such as a screenshot of your app or command-
 
 ## Installation
 
-_TODO: Add your instructions._
+_TODO: Add your instructions here or link to an installation.md page._
 
 
 ## Usage
 
-_TODO: Add your instructions._
+_TODO: Add your instructions here or link to a usagee.md page._

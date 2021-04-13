@@ -30,14 +30,18 @@ If you want learn about _Docsify_ and how to customize a docs like this, follow 
 Click the button below to create your own copy of this repo.
 
 <div align="center">
- 
-[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
-
+    <a href="https://github.com/MichaelCurrin/docsify-js-template/generate">
+        <img src="https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge" alt="Use this template">
+    </a>
 </div>
- 
+
 Then follow instructions in the original GitHub repo's `README.md` file to setup your own docs site like this one.
 
-[![MichaelCurrin - docsify-js-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=docsify-js-template&color=blue&logo=github)](https://github.com/MichaelCurrin/docsify-js-template)
+<div align="center">
+    <a href="https://github.com/MichaelCurrin/docsify-js-template">
+        <img src="https://img.shields.io/static/v1?label=MichaelCurrin&amp;message=docsify-js-template&amp;color=blue&amp;logo=github" alt="MichaelCurrin - docsify-js-template">
+    </a>
+</div>
 
 
 ## Preview

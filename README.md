@@ -1,9 +1,11 @@
-# DocsifyJS Template
-> A quickstart template for a markdown-based docs site
+# DocsifyJS Template 📒 🕸
+> Starter template for a markdown-based docs site
 
-[![Made with DocsifyJS](https://img.shields.io/badge/DocsifyJS-latest-blue)](https://docsify.js.org/)
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template)](https://github.com/MichaelCurrin/docsify-js-template/tags/?include_prereleases&sort=semver)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+
+[![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://pages.github.com/)
+[![Made with DocsifyJS](https://img.shields.io/badge/DocsifyJS-latest-blue)](https://docsify.js.org/)
 
 
 <div align="center">
@@ -17,9 +19,10 @@
 
 ## Features
 
-- 📗 Make a modern docs site – using your awesome project's _existing_ markdown files
-- 🤩 Low code needed – needs just a single HTML file, which has a JS section you can configure for your own project
-- 🚀 Easily hosted on GH Pages – a free static site with no build step needed
+- 🏭 Template for a SPA modern docs site.
+- 📗 Use your awesome project's _existing_ markdown files.
+- 🤩 Light on code – just add a single HTML file and optionally add cover page and navbar config.
+- 🚀 Easy to host as a static site on GitHub Pages. No build step needed.
 
 
 ## Purpose

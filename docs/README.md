@@ -56,4 +56,4 @@ _TODO: Add your instructions here or link to an installation.md page._
 
 ## Usage
 
-_TODO: Add your instructions here or link to a usagee.md page._
+_TODO: Add your instructions here or link to a usage.md page._

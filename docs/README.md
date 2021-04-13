@@ -1,5 +1,5 @@
 <!-- TODO: Update with your values. -->
-# DocsifyJS Template homepage
+# DocsifyJS Template
 > Starter template for a markdown-based docs site
 
  <!-- TODO: Update repo links and change license type if needed. -->

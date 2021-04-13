@@ -126,6 +126,11 @@ Follow this [gist](https://gist.github.com/MichaelCurrin/4c8060dcc9d8841f842eeeb
 Go to my [DocsifyJS Tutorial - Serve locally](https://michaelcurrin.github.io/docsify-js-tutorial/#/?id=serve-a-docsify-site-locally) for more info on what DocsifyJS is and how to use it.
 
 
+## Related projects
+
+- [![MichaelCurrin - vuepress-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vuepress-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vuepress-quickstart) - a template for Vue-based docs site, except that it renders as a static (better for SEO) rather than as a Single-Page Application.
+
+
 ## License
 
 Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).

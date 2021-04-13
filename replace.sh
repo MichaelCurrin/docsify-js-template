@@ -10,18 +10,18 @@ cd docs
 
 MY_TITLE='Foo Bar'
 MY_SUBTITLE='Foos the bar all the buzz'
-MY_USERNAME='My-Github-Username'
+MY_USERNAME='MyGitHubUsername'
 MY_PROJECT_SLUG='foo-bar'
 
 ## DO NOT MODIFY AFTER THE LINE ABOVE
 
 MY_REPO="$MY_USERNAME\/$MY_PROJECT_SLUG"
-MY_GETTING_STARTED="$MY_PROJECT_SLUG-template-homepage"
+MY_GETTING_STARTED="$MY_PROJECT_SLUG"
 
 ORIGINAL_TITLE='DocsifyJS Template'
-ORIGINAL_SUBTITLE='A minimal quickstart template for a docs site'
+ORIGINAL_SUBTITLE='Starter template for a markdown-based docs site'
 ORIGINAL_REPO='MichaelCurrin\/docsify-js-template'
-ORIGINAL_GETTING_STARTED='docsifyjs-template-homepage'
+ORIGINAL_GETTING_STARTED='docsifyjs-template'
 
 PATTERN="s/$ORIGINAL_TITLE/$MY_TITLE/g
 s/$ORIGINAL_REPO/$MY_REPO/g
@@ -31,6 +31,6 @@ s/$ORIGINAL_SUBTITLE/$MY_SUBTITLE/g"
 echo 'PATTERN'
 echo "$PATTERN"
 
-sed -i "$PATTERN" *
+sed -i'' "$PATTERN" *
 
 echo "Done!"

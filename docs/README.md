@@ -1,11 +1,12 @@
 <!-- TODO: Update with your values. -->
 # DocsifyJS Template homepage
-> A quickstart template for a markdown-based docs site
+> Starter template for a markdown-based docs site
 
- <!-- TODO: Update repo links and change license type if not MIT. -->
-[![Made with latest Docsify](https://img.shields.io/npm/v/docsify/latest?label=docsify)](https://docsify.js.org/)
+ <!-- TODO: Update repo links and change license type if needed. -->
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MichaelCurrin/docsify-js-template/blob/master/README#license)
+
+[![Made with latest Docsify](https://img.shields.io/npm/v/docsify/latest?label=docsify)](https://docsify.js.org/)
 
 
 <!-- TODO: You can delete the About and Create a Docsify site sections if you create a new project from this template -->
@@ -30,7 +31,7 @@ Click the button below to create your own copy of this repo.
 
 <div align="center">
  
-[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f.svg?style=for-the-badge&logo=github)](https://github.com/MichaelCurrin/docsify-js-template/generate)
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
 
 </div>
  

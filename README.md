@@ -110,14 +110,13 @@ mv README.template.md README.md
 Then customize README.md as your own project.
 
 
-## Setup and run
+## Set up and run
 
 ### Remote use
 
-Whatever approach you use to setup a _docs_ directory, you can use your own project or a forked template a site on Github Pages or Netlify.
+Whatever approach you use to set up a `docs` directory, you can use your own project or a forked template and serve your site on platform like  GiHhub Pages or Netlify.
 
-There won't be any code to the site other than _docs_ site, but this is still fine as a standalone online demo of _Docsify_ that you can tweak.
-
+This template still works fine as a standalone online demo of _Docsify_ that you can tweak. In a real project, you'd add your code at the repo root, outside of `docs`. Or you could move your docs site to the repo root on the `gh-pages` branch for GH Pages.
 
 ### Serve locally
 
@@ -128,7 +127,17 @@ Go to my [DocsifyJS Tutorial - Serve locally](https://michaelcurrin.github.io/do
 
 ## Related projects
 
-- [![MichaelCurrin - vuepress-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vuepress-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vuepress-quickstart) - a template for Vue-based docs site, except that it renders as a static (better for SEO) rather than as a Single-Page Application.
+A template using Docsify Themeable. It Docsify site easier to use and prettier (in opinion) and supports a theme system that is more advanced than that in Docsify.
+
+[![MichaelCurrin - docsify-themeable-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=docsify-themeable-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/docsify-themeable-quickstart)
+
+A template for Vue-based docs site. Except that it uses VuePress to render a static site (better for SEO) rather than as a Single-Page Application.
+ 
+- [![MichaelCurrin - vuepress-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vuepress-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vuepress-quickstart)
+
+A template for a Vue-based app.
+
+- [![MichaelCurrin - vue-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-quickstart)
 
 
 ## License

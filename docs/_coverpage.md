@@ -19,3 +19,6 @@
 
 [Use this template](https://github.com/MichaelCurrin/docsify-js-template/generate) <!-- TODO: Remove on your copy of this template.-->
 [Get Started](#docsifyjs-template) <!-- TODO: Use ID of your homepage heading -->
+
+<!-- TODO: Set your background color or image. -->
+![color](#b3d9f8)

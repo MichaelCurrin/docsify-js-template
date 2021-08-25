@@ -1,6 +1,6 @@
 <!-- TODO: Update with your values. -->
 # DocsifyJS Template
-> Starter template for a markdown-based docs site
+> Starter template for a Markdown-based docs site
 
  <!-- TODO: Update repo links and change license type if needed. -->
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/)

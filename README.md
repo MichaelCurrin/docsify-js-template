@@ -1,5 +1,5 @@
 # DocsifyJS Template 📒 🕸
-> Starter template for a markdown-based docs site
+> Starter template for a Markdown-based docs site
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template)](https://github.com/MichaelCurrin/docsify-js-template/tags/?include_prereleases&sort=semver)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)

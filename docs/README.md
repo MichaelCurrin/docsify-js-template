@@ -21,7 +21,11 @@ _Docsify.js_ runs as a _Single-Page Application_ on `index.html` - it relies on 
 
 If you want learn about _Docsify_ and how to customize a docs like this, follow this tutorial:
 
-[![teach me - DocsifyJS tutorial](https://img.shields.io/badge/teach_me-DocsifyJS_tutorial-2ea44f)](https://michaelcurrin.github.io/docsify-js-tutorial/#/)
+<div align="center">
+ 
+[![Teach me - DocsifyJS tutorial](https://img.shields.io/badge/Teach_me-DocsifyJS_tutorial-blue)](https://michaelcurrin.github.io/docsify-js-tutorial/#/)
+
+</div>
 
 
 ## Create a Docsify site

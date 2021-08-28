@@ -22,9 +22,13 @@
 
 [![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-blue?style=for-the-badge)](https://michaelcurrin.github.io/docsify-js-template/)
 
+Rather than a forking, make a new repo from this template:
+
 [![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
 
 </div>
+
+If you want to improve the original template, then fork this.
 
 
 ## Features
@@ -127,11 +131,11 @@ Go to my [DocsifyJS Tutorial - Serve locally](https://michaelcurrin.github.io/do
 
 ## Related projects
 
-A template using Docsify Themeable. It Docsify site easier to use and prettier (in opinion) and supports a theme system that is more advanced than that in Docsify.
+A template using Docsify Themeable. It is a Docsify site but easier to use, it is prettier (in my opinion), and supports a theme system that is more advanced than that in Docsify.
 
-[![MichaelCurrin - docsify-themeable-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=docsify-themeable-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/docsify-themeable-quickstart)
+- [![MichaelCurrin - docsify-themeable-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=docsify-themeable-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/docsify-themeable-quickstart)
 
-A template for Vue-based docs site. Except that it uses VuePress to render a static site (better for SEO) rather than as a Single-Page Application.
+A template for Vue-based docs site. Except it uses VuePress to render a static site (better for SEO) rather than as a Single-Page Application like Docsify.
  
 - [![MichaelCurrin - vuepress-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vuepress-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vuepress-quickstart)
 
@@ -147,5 +151,5 @@ Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCur
 - You can modify and reuse this project.
 - Please link back to the original repo somewhere in your project if you use this in any way.
 - Including an original license copy.
-    - If you add content from [docs](/docs) to your repo (or click _Use this template_) and then modify for your own needs so your copy is no longer a template, then you don't need to include a license.
-    - If you do fork this repo then use it as your own _template_, then this project's license and copyright notice must be included with the software. [source](https://choosealicense.com/licenses/#mit). Copy `LICENSE` to `LICENSE-source` and then update your copy of `LICENSE` with your own details.
+    - If you add content from [docs](/docs/) to your repo (or click _Use this template_) and then modify for your own needs so your copy is no longer a template, then you don't need to include a license.
+    - If you do fork this repo then use it as your own _template_, then this project's license and copyright notice must be **included** with the software. [source](https://choosealicense.com/licenses/#mit). Copy `LICENSE` to `LICENSE-source` and then update your copy of `LICENSE` with your own details.

@@ -12,7 +12,7 @@
 
 <div align="center">
     <a href="https://michaelcurrin.github.io/docsify-js-template/">
-        <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="400" />
+        <img src="/sample.png" alt="Sample screenshot" alt="Go to website" width="500" />
     </a>
 </div>
 
@@ -20,15 +20,15 @@
 
 <div align="center">
 
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-blue?style=for-the-badge)](https://michaelcurrin.github.io/docsify-js-template/)
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-blue?style=for-the-badge)](https://michaelcurrin.github.io/docsify-js-template/ "Go to website")
 
-Rather than a forking, make a new repo from this template:
+Instead of forking, rather make a new repo using this template button:
 
 [![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/docsify-js-template/generate)
 
 </div>
 
-If you want to improve the original template, then fork this.
+If you want to improve the original template, then fork it and make a PR.
 
 
 ## Features

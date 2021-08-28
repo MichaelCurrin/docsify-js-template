@@ -39,7 +39,9 @@ Click the button below to create your own copy of this repo.
     </a>
 </div>
 
-Then follow instructions in the original GitHub repo's `README.md` file to setup your own docs site like this one.
+<br>
+
+Then follow instructions in the original GitHub repo linked below. The `README.md` file covers how to set up docs site like this one.
 
 <div align="center">
     <a href="https://github.com/MichaelCurrin/docsify-js-template">

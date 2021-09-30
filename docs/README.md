@@ -60,6 +60,12 @@ Then follow instructions in the original GitHub repo linked below. The `README.m
 
 _TODO: Complete with your content - such as a screenshot of your app or command-line usage. You can also rename Preview to Sample._
 
+> Sample quote
+
+?> Sample hint
+
+!> Sample warning 
+
 
 ## Installation
 

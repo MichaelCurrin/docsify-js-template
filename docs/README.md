@@ -60,12 +60,6 @@ Then follow instructions in the original GitHub repo linked below. The `README.m
 
 _TODO: Complete with your content - such as a screenshot of your app or command-line usage. You can also rename Preview to Sample._
 
-> Sample quote
-
-?> Sample hint
-
-!> Sample warning 
-
 
 ## Installation
 
@@ -75,3 +69,18 @@ _TODO: Add your instructions here or link to an installation.md page._
 ## Usage
 
 _TODO: Add your instructions here or link to a usage.md page._
+
+
+## Demo
+
+This section showcases some functionality of Docsify.
+
+```bash
+echo "Hello, World"
+```
+
+> Sample quote
+
+?> Sample hint
+
+!> Sample warning 

@@ -22,9 +22,11 @@ _Docsify.js_ runs as a _Single-Page Application_ on `index.html` - it relies on 
 If you want learn about _Docsify_ and how to customize a docs like this, follow this tutorial:
 
 <div align="center">
- 
-[![Teach me - DocsifyJS tutorial](https://img.shields.io/badge/Teach_me-DocsifyJS_tutorial-blue)](https://michaelcurrin.github.io/docsify-js-tutorial/#/)
-
+    <a href="https://michaelcurrin.github.io/docsify-js-tutorial/">
+        <img src="https://img.shields.io/badge/Teach_me-DocsifyJS_tutorial-blue" 
+            alt="DocsifyJS tutorial badge"
+            title="Go to tutorial">
+    </a>
 </div>
 
 
@@ -35,7 +37,9 @@ Click the button below to create your own copy of this repo.
 
 <div align="center">
     <a href="https://github.com/MichaelCurrin/docsify-js-template/generate">
-        <img src="https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge" alt="Use this template">
+        <img src="https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge" 
+            alt="Use this template"
+            title="Create repo from template">
     </a>
 </div>
 
@@ -45,7 +49,9 @@ Then follow instructions in the original GitHub repo linked below. The `README.m
 
 <div align="center">
     <a href="https://github.com/MichaelCurrin/docsify-js-template">
-        <img src="https://img.shields.io/static/v1?label=MichaelCurrin&message=docsify-js-template&color=blue&style=for-the-badge&logo=github" alt="MichaelCurrin - docsify-js-template">
+        <img src="https://img.shields.io/static/v1?label=MichaelCurrin&message=docsify-js-template&color=blue&style=for-the-badge&logo=github" 
+            alt="MichaelCurrin - docsify-js-template"
+            title="Go to template repo">
     </a>
 </div>
 
